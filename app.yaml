@@ -1,2 +1,1 @@
-runtime: python37 # Specify the correct runtime here, like python39, nodejs14, etc.
-entrypoint: gunicorn -b :$PORT main:app  # Adjust as needed for your application
+runtime: python39 # Specify the correct runtime here, like python39, nodejs14, etc.
